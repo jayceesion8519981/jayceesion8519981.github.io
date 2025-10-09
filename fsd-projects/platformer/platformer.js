@@ -41,7 +41,9 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-
+createCollectable("grace",300,500);
+createCollectable("steve",560,400);
+createCollectable("kennedi",240,670);
 
 
     
