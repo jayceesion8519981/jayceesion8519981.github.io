@@ -49,9 +49,9 @@ createCollectable("kennedi",240,670);
     
     // TODO 4 - Create Cannons
 
-createCannon("right" 500,900);
-createCannon("top",650,900);
-createCannon("bottom",460,900);
+createCannon("right",500,700);
+createCannon("top",650,700);
+createCannon("bottom",460,700);
 
     
     
